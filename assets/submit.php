@@ -11,7 +11,6 @@ $body = "Email : $message";
 
 mail($to, $subject, $body);
 
-exit();
 }
 
 ?>
