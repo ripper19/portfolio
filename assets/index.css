@@ -260,7 +260,7 @@ outline: none;
         transform: translateX(0);
     }
     .myimage{
-        margin-top: 2rem;
+        margin-top: 1rem;
         flex-direction: column;
         gap: 0;
     }
